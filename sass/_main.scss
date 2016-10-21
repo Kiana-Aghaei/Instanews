@@ -21,11 +21,7 @@ $grey: #c2c2c2;
   }
 }
 
-@mixin mobile {
-  @media (min-width: $mobile-width) {
-    @content;
-  }
-}
+//deleted mobile media query, redundant// 
 
 //Styling
 //main elements
